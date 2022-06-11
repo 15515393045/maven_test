@@ -12,6 +12,7 @@ public class Demo1 {
         System.out.println("hot-fix test");
         System.out.println("我太牛了。");
         System.out.println("哈哈哈");
+        System.out.println("早睡早起");
     }
 
 }
