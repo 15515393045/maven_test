@@ -10,6 +10,8 @@ public class Demo1 {
         System.out.println("master test");
         System.out.println("hello git 4");
         System.out.println("hot-fix test");
+        System.out.println("我太牛了。");
+        System.out.println("哈哈哈");
     }
 
 }
