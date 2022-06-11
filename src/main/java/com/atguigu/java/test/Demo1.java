@@ -8,6 +8,8 @@ public class Demo1 {
         System.out.println("hello git 3");
         System.out.println("hello git 4");
         System.out.println("master test");
+        System.out.println("hello git 4");
+        System.out.println("hot-fix test");
     }
 
 }
