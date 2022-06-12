@@ -14,6 +14,7 @@ public class Demo1 {
         System.out.println("哈哈哈");
         System.out.println("早睡早起");
         System.out.println("身体好！！");
+        System.out.println("声明在于运动");
     }
 
 }
