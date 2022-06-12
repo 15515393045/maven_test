@@ -16,6 +16,7 @@ public class Demo1 {
         System.out.println("身体好！！");
         System.out.println("生命在于运动");
         System.out.println("生命在于运动");
+        System.out.println("太对了哥，哥太对");
     }
 
 }
