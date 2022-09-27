@@ -22,6 +22,7 @@ public class Demo1 {
         System.out.println("学习RabbitMQ中....");
         System.out.println("不能在玩物丧志了，趁着年轻赶紧gi多学习！");
         System.out.println(1);
+         System.out.println(2);
     }
 
 }
