@@ -19,6 +19,7 @@ public class Demo1 {
         System.out.println("太对了哥，哥太对");
         System.out.println("旭旭宝宝");
         System.out.println("旭旭宝宝11");
+        System.out.println("学习RabbitMQ中....");
     }
 
 }
