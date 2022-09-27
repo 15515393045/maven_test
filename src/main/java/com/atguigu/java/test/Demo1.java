@@ -20,6 +20,8 @@ public class Demo1 {
         System.out.println("旭旭宝宝");
         System.out.println("旭旭宝宝11");
         System.out.println("学习RabbitMQ中....");
+        System.out.println("不能在玩物丧志了，趁着年轻赶紧gi多学习！");
+        System.out.println(1);
     }
 
 }
